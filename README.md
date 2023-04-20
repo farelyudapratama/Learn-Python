@@ -1,2 +1,2 @@
 # Ntah
-tak tau ini apa banyak file yang asal ku buat
+Hasil aku belajar python
