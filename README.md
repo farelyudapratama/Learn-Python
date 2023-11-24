@@ -1,2 +1,2 @@
-# Ntah
+# Kumpulan
 Hasil aku belajar python
